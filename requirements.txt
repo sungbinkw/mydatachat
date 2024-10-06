@@ -1,3 +1,4 @@
+python-pptx
 pandas
 streamlit
 langchain
