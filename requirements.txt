@@ -1,8 +1,9 @@
-langchain_community
 pandas
 streamlit
 langchain
+langchain_community
 chromadb
+unstructured
 sentence-transformers
 faiss-cpu
 tiktoken
