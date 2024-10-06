@@ -1,0 +1,14 @@
+pandas
+streamlit
+langchain
+chromadb
+sentence-transformers
+faiss-cpu
+tiktoken
+openai
+pypdf
+loguru
+docx2txt
+transformers
+torch
+python-dotenv
